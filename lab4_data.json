@@ -1,19 +1,24 @@
 {
-   "Ticket":[
+   "selectedTicket":"Ticket?",
+   "soldTicket":"SoldTicket?",
+   "historyList":[
+      
+   ],
+   "ticketList":[
       {
          "type":"Balcony Level",
-         "price": 100,
-         "inventory": 12
+         "price":100,
+         "inventory":12
       },
       {
          "type":"Lower Level",
-         "price": 250,
-         "inventory": 12
+         "price":250,
+         "inventory":12
       },
       {
          "type":"Courtside",
-         "price": 1000,
-         "inventory": 15
+         "price":1000,
+         "inventory":15
       }
    ]
 }
