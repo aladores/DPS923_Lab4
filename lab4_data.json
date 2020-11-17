@@ -1,6 +1,12 @@
 {
-   "selectedTicket":"{Ticket?}",
-   "soldTicket":"SoldTicket?",
+   "selectedTicket":{
+      "type":"",
+      "price":"",
+      "inventory":""
+   },
+   "soldTicket":{
+      "date":""
+   },
    "historyList":[
       
    ],
