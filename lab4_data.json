@@ -1,6 +1,6 @@
 {
    "selectedTicket":{
-      "type":null,
+      "type":"",
       "price":null,
       "inventory":null
    },
