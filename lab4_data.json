@@ -1,15 +1,4 @@
 {
-   "selectedTicket":{
-      "type":"",
-      "price":0,
-      "inventory":0
-   },
-   "soldTicket":{
-      "date":null
-   },
-   "historyList":[
-      
-   ],
    "ticketList":[
       {
          "type":"Balcony Level",
