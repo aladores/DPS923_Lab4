@@ -1,8 +1,8 @@
 {
    "selectedTicket":{
       "type":"",
-      "price":null,
-      "inventory":null
+      "price":0,
+      "inventory":0
    },
    "soldTicket":{
       "date":null
