@@ -1,11 +1,11 @@
 {
    "selectedTicket":{
-      "type":"",
-      "price":"",
-      "inventory":""
+      "type":null,
+      "price":null,
+      "inventory":null
    },
    "soldTicket":{
-      "date":""
+      "date":null
    },
    "historyList":[
       
